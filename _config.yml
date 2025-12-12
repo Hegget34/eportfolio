@@ -1,0 +1,24 @@
+# GitHub Pages Configuration
+
+title: CS 499 ePortfolio - Trevor Hegge
+description: Computer Science Capstone Portfolio showcasing Software Engineering, Algorithms, and Database skills
+theme: minima
+
+author: Trevor Hegge
+email: trevor.hegge@snhu.edu
+
+# Navigation
+show_downloads: false
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
