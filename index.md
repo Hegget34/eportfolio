@@ -6,7 +6,7 @@
 
 ## Navigation
 
-**[Professional Self-Assessment](./Professional-Self-Assessment.md)** | **[Code Review Video](https://youtu.be/cm1HGNd9Gls)** | **[Software Design](./narratives/Software-Design-Narrative.md)** | **[Algorithms](./narratives/Algorithms-Narrative.md)** | **[Databases](./narratives/Database-Narrative.md)**
+**[Professional Self-Assessment](./Professional-Self-Assessment.md)** | **[Code Review Video](https://youtu.be/cm1HGNd9Gls)** | **[Software Design](./narratives/software-design-narrative.md)** | **[Algorithms](./narratives/Algorithms-Narrative.md)** | **[Databases](./narratives/Database-Narrative.md)**
 
 ---
 
@@ -69,7 +69,7 @@ The code review demonstrates my ability to:
 
 **Course Outcomes:** 3, 4, 5
 
-**[View Enhancement Narrative](./narratives/Software-Design-Narrative.md)** | **[Download Original Code](./artifacts/original/Task_Management.py)** | **[Download Enhanced Code](./artifacts/enhanced/Task_Management_Enhanced.py)**
+**[View Enhancement Narrative](./narratives/software-design-narrative.md)** | **[Download Original Code](./artifacts/original/Task_Management.py)** | **[Download Enhanced Code](./artifacts/enhanced/Task_Management_Enhanced.py)**
 
 ---
 
