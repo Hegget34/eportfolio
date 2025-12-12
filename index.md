@@ -6,7 +6,7 @@
 
 ## Navigation
 
-**[Professional Self-Assessment](./professional-self-assessment.md)** | **[Code Review Video](https://youtu.be/cm1HGNd9Gls)** | **[Software Design](./narratives/software-design-narrative.md)** | **[Algorithms](./narratives/algorithms-narrative.md)** | **[Databases](./narratives/database-narrative.md)**
+**[Professional Self-Assessment](./Professional-Self-Assessment.md)** | **[Code Review Video](https://youtu.be/cm1HGNd9Gls)** | **[Software Design](./narratives/software-design-narrative.md)** | **[Algorithms](./narratives/Algorithms-Narrative.md)** | **[Databases](./narratives/Database-Narrative.md)**
 
 ---
 
