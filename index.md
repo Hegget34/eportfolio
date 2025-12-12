@@ -94,7 +94,7 @@ The code review demonstrates my ability to:
 
 **Course Outcomes:** 2, 3, 4
 
-**[View Enhancement Narrative](./narratives/Algorithms_Narrative.md)** | **[Download Original Code](./artifacts/original/Student_Records.py)** | **[Download Enhanced Code](./artifacts/enhanced/Student_Records_Enhanced.py)** | **[View README](./artifacts/enhanced/_README_Student_Records.md)**
+**[View Enhancement Narrative](./narratives/Algorithms_Narrative.md)** | **[Download Original Code](./artifacts/original/Student_Records.py)** | **[Download Enhanced Code](./artifacts/enhanced/Student_Records_Enhanced.py)** | **[View README](./artifacts/enhanced/README_Student_Records.md)**
 
 ---
 
@@ -121,7 +121,7 @@ The code review demonstrates my ability to:
 
 **Course Outcomes:** 2, 4, 5
 
-**[View Enhancement Narrative](./narratives/Database_Narrative.md)** | **[Download Original Code](./artifacts/original/Inventory.py)** | **[Download Enhanced Code](./artifacts/enhanced/Inventory_Enhanced.py)** | **[View README](./artifacts/enhanced/_README_Inventory.md)**
+**[View Enhancement Narrative](./narratives/Database_Narrative.md)** | **[Download Original Code](./artifacts/original/Inventory.py)** | **[Download Enhanced Code](./artifacts/enhanced/Inventory_Enhanced.py)** | **[View README](./artifacts/enhanced/README_Inventory.md)**
 
 ---
 
