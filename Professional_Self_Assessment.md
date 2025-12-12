@@ -1,5 +1,3 @@
-# Professional Self-Assessment
-
 **Trevor Hegge**  
 **CS 499 - Computer Science Capstone**  
 **Southern New Hampshire University**  
