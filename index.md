@@ -26,7 +26,7 @@ Welcome to my professional ePortfolio showcasing my growth and achievements thro
 
 ## Code Review
 
-**[Watch my Code Review Video on YouTube] https://youtu.be/cm1HGNd9Gls**
+**[Watch my Code Review Video on YouTube](https://youtu.be/cm1HGNd9Gls)**
 
 In this 30-minute code review, I analyze three artifacts from my coursework, identify areas for improvement, and explain my enhancement plans. The review covers:
 
@@ -208,7 +208,7 @@ This ePortfolio demonstrates mastery of all five Computer Science program outcom
 ## Contact Information
 
 **Email:** [trevor.hegge@snhu.edu](mailto:trevor.hegge@snhu.edu)  
-**GitHub:** [GitHub Profile](https://github.com/hegget34)
+**GitHub:** [GitHub Profile](https://github.com/Hegget34)
 
 ---
 
