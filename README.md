@@ -1,5 +1,3 @@
-# CS 499 Capstone ePortfolio
-
 This repository contains my professional ePortfolio for the CS 499 Computer Science Capstone course at Southern New Hampshire University.
 
 ## 🌐 View My ePortfolio
