@@ -1,5 +1,3 @@
-# CS 499 Computer Science Capstone ePortfolio
-
 **Trevor Hegge**  
 **Southern New Hampshire University**  
 **December 2025**
