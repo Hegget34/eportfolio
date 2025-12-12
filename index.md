@@ -4,6 +4,12 @@
 
 ---
 
+## Navigation
+
+**[Professional Self-Assessment](./professional-self-assessment.md)** | **[Code Review Video](https://youtu.be/cm1HGNd9Gls)** | **[Software Design](./narratives/software-design-narrative.md)** | **[Algorithms](./narratives/algorithms-narrative.md)** | **[Databases](./narratives/database-narrative.md)**
+
+---
+
 ## Welcome to My ePortfolio
 
 Welcome to my professional ePortfolio showcasing my growth and achievements throughout the Computer Science program at Southern New Hampshire University. This portfolio demonstrates my skills in software engineering, algorithms and data structures, and database management through three enhanced artifacts that illustrate my ability to write secure, efficient, and maintainable code.
@@ -63,10 +69,7 @@ The code review demonstrates my ability to:
 
 **Course Outcomes:** 3, 4, 5
 
-**[View Enhancement Narrative](./narratives/software-design-narrative.md)**  
-**[Download Original Code](./artifacts/original/Task_Management.py)**  
-**[Download Enhanced Code](./artifacts/enhanced/Task_Management_Enhanced.py)**  
-**[View README](./artifacts/enhanced/README_Task_Management.md)**
+**[View Enhancement Narrative](./narratives/software-design-narrative.md)** | **[Download Original Code](./artifacts/original/Task_Management.py)** | **[Download Enhanced Code](./artifacts/enhanced/Task_Management_Enhanced.py)**
 
 ---
 
@@ -91,10 +94,7 @@ The code review demonstrates my ability to:
 
 **Course Outcomes:** 2, 3, 4
 
-**[View Enhancement Narrative](./narratives/algorithms-narrative.md)**  
-**[Download Original Code](./artifacts/original/Student_Records.py)**  
-**[Download Enhanced Code](./artifacts/enhanced/Student_Records_Enhanced.py)**  
-**[View README](./artifacts/enhanced/README_Student_Records.md)**
+**[View Enhancement Narrative](./narratives/algorithms-narrative.md)** | **[Download Original Code](./artifacts/original/Student_Records.py)** | **[Download Enhanced Code](./artifacts/enhanced/Student_Records_Enhanced.py)** | **[View README](./artifacts/enhanced/README_Student_Records.md)**
 
 ---
 
@@ -121,10 +121,7 @@ The code review demonstrates my ability to:
 
 **Course Outcomes:** 2, 4, 5
 
-**[View Enhancement Narrative](./narratives/database-narrative.md)**  
-**[Download Original Code](./artifacts/original/Inventory.py)**  
-**[Download Enhanced Code](./artifacts/enhanced/Inventory_Enhanced.py)**  
-**[View README](./artifacts/enhanced/README_Inventory.md)**
+**[View Enhancement Narrative](./narratives/database-narrative.md)** | **[Download Original Code](./artifacts/original/Inventory.py)** | **[Download Enhanced Code](./artifacts/enhanced/Inventory_Enhanced.py)** | **[View README](./artifacts/enhanced/README_Inventory.md)**
 
 ---
 
@@ -206,35 +203,7 @@ This ePortfolio demonstrates mastery of all five Computer Science program outcom
 ## Contact Information
 
 **Email:** [trevor.hegge@snhu.edu](mailto:trevor.hegge@snhu.edu)  
-**GitHub:** [GitHub Profile](https://github.com/Hegget34)
-
----
-
-## Repository Structure
-
-```
-ePortfolio/
-├── index.md (this file)
-├── professional-self-assessment.md
-├── narratives/
-│   ├── software-design-narrative.md
-│   ├── algorithms-narrative.md
-│   └── database-narrative.md
-├── artifacts/
-│   ├── original/
-│   │   ├── Task_Management.py
-│   │   ├── Student_Records.py
-│   │   └── Inventory.py
-│   └── enhanced/
-│       ├── Task_Management_Enhanced.py
-│       ├── Student_Records_Enhanced.py
-│       ├── Inventory_Enhanced.py
-│       ├── README_Task_Management.md
-│       ├── README_Student_Records.md
-│       └── README_Inventory.md
-└── code-review/
-    └── link-to-video.md
-```
+**GitHub:** [Hegget34](https://github.com/Hegget34)
 
 ---
 
