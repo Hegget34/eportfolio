@@ -1,12 +1,15 @@
 # GitHub Pages Configuration
 
 title: CS 499 ePortfolio - Trevor Hegge
-description: Computer Science Capstone Portfolio
+description: Computer Science Capstone Portfolio showcasing Software Engineering, Algorithms, and Database skills
 theme: minima
 
-# Author information
+# Optional: Add your information
 author: Trevor Hegge
 email: trevor.hegge@snhu.edu
+
+# DISABLE automatic header navigation
+header_pages: []
 
 # Navigation
 show_downloads: false
