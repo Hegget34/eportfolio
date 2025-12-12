@@ -6,7 +6,7 @@
 
 ## Navigation
 
-**[Professional Self-Assessment](./Professional-Self-Assessment.md)** | **[Code Review Video](https://youtu.be/cm1HGNd9Gls)** | **[Software Design](./narratives/software-design-narrative.md)** | **[Algorithms](./narratives/Algorithms-Narrative.md)** | **[Databases](./narratives/Database-Narrative.md)**
+**[Professional Self-Assessment](./Professional_Self_Assessment.md)** | **[Code Review Video](https://youtu.be/cm1HGNd9Gls)** | **[Software Design](./narratives/software-design-narrative.md)** | **[Algorithms](./narratives/Algorithms_Narrative.md)** | **[Databases](./narratives/Database_Narrative.md)**
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to my professional ePortfolio showcasing my growth and achievements thro
 
 ## Professional Self-Assessment
 
-[Read my complete professional self-assessment](./Professional-Self-Assessment.md) to learn about my journey through the Computer Science program, the skills I have developed, and how I am prepared to contribute as a professional software developer.
+[Read my complete professional self-assessment](./Professional_Self_Assessment.md) to learn about my journey through the Computer Science program, the skills I have developed, and how I am prepared to contribute as a professional software developer.
 
 **Key Highlights:**
 - Demonstrated ability to transform poorly structured code into professional-quality software
@@ -94,7 +94,7 @@ The code review demonstrates my ability to:
 
 **Course Outcomes:** 2, 3, 4
 
-**[View Enhancement Narrative](./narratives/Algorithms-Narrative.md)** | **[Download Original Code](./artifacts/original/Student_Records.py)** | **[Download Enhanced Code](./artifacts/enhanced/Student_Records_Enhanced.py)** | **[View README](./artifacts/enhanced/_README_Student_Records.md)**
+**[View Enhancement Narrative](./narratives/Algorithms_Narrative.md)** | **[Download Original Code](./artifacts/original/Student_Records.py)** | **[Download Enhanced Code](./artifacts/enhanced/Student_Records_Enhanced.py)** | **[View README](./artifacts/enhanced/_README_Student_Records.md)**
 
 ---
 
@@ -121,7 +121,7 @@ The code review demonstrates my ability to:
 
 **Course Outcomes:** 2, 4, 5
 
-**[View Enhancement Narrative](./narratives/Database-Narrative.md)** | **[Download Original Code](./artifacts/original/Inventory.py)** | **[Download Enhanced Code](./artifacts/enhanced/Inventory_Enhanced.py)** | **[View README](./artifacts/enhanced/_README_Inventory.md)**
+**[View Enhancement Narrative](./narratives/Database_Narrative.md)** | **[Download Original Code](./artifacts/original/Inventory.py)** | **[Download Enhanced Code](./artifacts/enhanced/Inventory_Enhanced.py)** | **[View README](./artifacts/enhanced/_README_Inventory.md)**
 
 ---
 
